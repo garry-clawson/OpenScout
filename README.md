@@ -50,12 +50,12 @@ The general process of contributing on GitHub is widely documented however the o
 If you use this project for research, please cite [the paper](https://mycittaion):
 
 ```
-@inproceedings{northcutt2021labelerrors,
-      title={Pervasive Label Errors in Test Sets Destabilize Machine Learning Benchmarks}, 
-      author={Curtis G. Northcutt and Anish Athalye and Jonas Mueller},
-      month={December},
-      year={2021},
-      booktitle={Proceedings of the 35th Conference on Neural Information Processing Systems Track on Datasets and Benchmarks}
+@inproceedings{carter2022openscout,
+      title={OpenScout:open source hardware mobile robot}, 
+      author={Samual J. Carter and Nikolaos C. Tsagkopoulos and Garry Clawson and Charles Fox},
+      month={July},
+      year={2022},
+      booktitle={TBD}
 }
 ```
 
