@@ -45,6 +45,20 @@ The general process of contributing on GitHub is widely documented however the o
 
 1. Update the project and then make a pull request!
 
+## Citation
+
+If you use this project for research, please cite [the paper](https://mycittaion):
+
+```
+@inproceedings{northcutt2021labelerrors,
+      title={Pervasive Label Errors in Test Sets Destabilize Machine Learning Benchmarks}, 
+      author={Curtis G. Northcutt and Anish Athalye and Jonas Mueller},
+      month={December},
+      year={2021},
+      booktitle={Proceedings of the 35th Conference on Neural Information Processing Systems Track on Datasets and Benchmarks}
+}
+```
+
 ## License
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE) and [CERN-OHL-W](LICENCE)
