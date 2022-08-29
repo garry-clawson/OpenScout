@@ -45,20 +45,6 @@ The general process of contributing on GitHub is widely documented however the o
 
 1. Update the project and then make a pull request!
 
-## Citation
-
-If you use this project for research, please cite [the paper](https://mycittaion):
-
-```
-@inproceedings{carter2022openscout,
-      title={OpenScout:open source hardware mobile robot}, 
-      author={Samual J. Carter and Nikolaos C. Tsagkopoulos and Garry Clawson and Charles Fox},
-      month={July},
-      year={2022},
-      booktitle={TBD}
-}
-```
-
 ## License
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE) and [CERN-OHL-W](LICENCE)
