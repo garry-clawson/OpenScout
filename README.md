@@ -1,8 +1,9 @@
-# OpenScout
+# OpenScout - Hard Body Version
 
 [![DOI](https://zenodo.org/badge/477675491.svg)](https://zenodo.org/doi/10.5281/zenodo.10263675)
 
-
+## Hard Body Fork
+This fork of OpenScout is an extension of the previous work and builds a solid structure body that allows a more rigid and simpler profile to be duilt. The original OpenScount used a 'Lazy Susan' central hinge that enabled at least 3 points of contact with the ground at almost all times. The hard body version although reduces this flexablity, it does allow for a larger carrying capacity whilst also provding a methid to secure compute resources when extending the original board system. 
 
 ## An Open Source Hardware Mobile Robot
 OpenScout is a low-cost open source hardware and software mobile robot that can be used for both indoor and outdoor tasks, transporting up to 15kg of payload. The robot is designed to be easily and cheaply (350USD) buildable and modifiable by non-specialists, and to function as a new standard physical platform for robotics research and real-world tasks, replacing current proprietary options. Example applications include last mile and factory floor delivery, site survey and monitoring, and agricultural crop operations.
@@ -29,7 +30,11 @@ The robot consists of 200mm & 300mm 20x20 aluminium extrusions connected with 90
 
 The full bill of materials depends on each configuration and for more details please refer to the tutorials.
 
-## Assembly Tutorial:
+## Hard Body Assembly Tutorial:
+
+TBC
+
+## Original Lazy Susan Assembly Tutorial:
 
 A fully documented assembly tutorial for the OpenScout with a 'Lazy Susan' revolute hinge is available below. Additionally, a comprehensive and fully annotated [Assembly Manual](Documentation/CAD_Files/Instruction_Manual/InstructionManual.pdf) with step by step 3D projections of the hardware build has been made available to print out. All associated CAD files and schematics are available in the [Documentation](Documentation) directory.
 
@@ -47,7 +52,7 @@ The general process of contributing on GitHub is widely documented however the o
 1. Clone or fork the repository using GitHub desktop or the CLI into this location (CLI is recommended as this helps you become more familiar with Git in general). You can do this with the following command:
 
     ```bash
-    git clone https://github.com/cbedio/OpenScout
+    git clone https://github.com/garry-clawson/OpenScout
     ```
 
 1. Update the project and then make a pull request!
